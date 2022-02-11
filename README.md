@@ -1,2 +1,2 @@
 # readme
-Plantilla minima de repositorio
+Descripción del proyecto.
